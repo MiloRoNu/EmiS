@@ -1,5 +1,5 @@
 #EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1 group-title=“Canales Nacionales” tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b3/TVN_HD_Chile.png/revision/latest?cb=20140110184450",TVN HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b3/TVN_HD_Chile.png/revision/latest?cb=20140110184450",TVN HD
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title=“Canales Nacionales” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/13hd.png",Canal 13 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/13hd.png",Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
