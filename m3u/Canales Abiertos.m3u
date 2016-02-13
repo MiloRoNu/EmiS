@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVN_HD_Chile.png/250px-TVN_HD_Chile.png",TVN HD
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png",Canal 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png/revision/latest?cb=20151117222012",Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chvhd2015.png/245px-Chvhd2015.png",CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-qfTMO3NWj-k/U1BmI8nHzTI/AAAAAAAACYU/laLmM3VRShU/s1600/Ucvtv2013oficial.png",UCV HD
+http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-dmavo0V3Isk/VP87DbLf1dI/AAAAAAAAEH0/wcH96Tk8Un4/s1600/La%2BRed%2BHD%2B1.png”,La Red HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u
+
