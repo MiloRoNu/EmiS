@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, 13
+http://13.live.cdn.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:-1, CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1, Mega
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?&amp;dnt=true&amp;access_token=false&amp;ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
+#EXTINF:-1, TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?&dnt=true
+#EXTINF:-1, UCV TV
+http://unlimited6-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:-1, La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
